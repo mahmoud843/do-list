@@ -1,0 +1,26 @@
+.container{
+    margin: 50px auto;
+    text-align: center;
+    width: 25%;
+}
+input{
+    outline: none;
+    border: 1px solid lightseagreen;
+    padding: 15px;
+    border-radius: 5px;
+}
+button{
+    border: none;
+    background-color: lightseagreen;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    outline: none;
+}
+.todo-item{
+    margin: 20px auto;
+    background-color: aqua;
+    padding: 15px;
+}
